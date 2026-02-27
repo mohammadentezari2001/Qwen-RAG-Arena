@@ -1,4 +1,4 @@
-#Hybrid RAG Evaluator & Pipeline
+# Hybrid RAG Evaluator & Pipeline
 
 An end-to-end Retrieval-Augmented Generation (RAG) pipeline designed to benchmark and compare different retrieval strategies. The system evaluates **Lexical (BM25)**, **Semantic (FAISS + Dense Embeddings)**, and **Hybrid (BM25 + FAISS + CrossEncoder Reranking)** approaches.
 
